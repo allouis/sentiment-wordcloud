@@ -4,7 +4,8 @@
   "description": "Wordcloud visulisation",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test"
+    "test": "mocha test",
+    "build": "node_modules/browserify/bin/cmd.js -e index.js -o app.js"
   },
   "repository": {
     "type": "git",
