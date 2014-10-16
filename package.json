@@ -1,0 +1,19 @@
+{
+  "name": "wordcloud",
+  "version": "0.0.0",
+  "description": "Wordcloud visulisation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:allouis/wordcloud.git"
+  },
+  "author": "Fabien O'Carroll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allouis/wordcloud/issues"
+  },
+  "homepage": "https://github.com/allouis/wordcloud"
+}
