@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/allouis/wordcloud/issues"
   },
-  "homepage": "https://github.com/allouis/wordcloud"
+  "homepage": "https://github.com/allouis/wordcloud",
+  "devDependencies": {
+    "mocha": "^1.21.5"
+  }
 }
