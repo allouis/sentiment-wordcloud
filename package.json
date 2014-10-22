@@ -19,8 +19,8 @@
   "homepage": "https://github.com/allouis/wordcloud",
   "devDependencies": {
     "browserify": "6.1.0",
-    "mocha": "1.21.5",
-    "handlebars": "1.0.12",
-    "hbsfy": "2.2.0"
+    "handlebars": "^2.0.0",
+    "hbsfy": "2.2.0",
+    "mocha": "1.21.5"
   }
 }
