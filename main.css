@@ -1,0 +1,21 @@
+#wordcloud {
+  height:600px;
+  width:800px;
+  position:relative;
+}
+
+.word {
+  position: absolute;
+}
+
+.word.green {
+  color: green;
+}
+
+.word.red {
+  color: red;
+}
+
+.word.grey {
+  color: grey;
+}
