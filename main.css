@@ -26,3 +26,22 @@
 .word.grey {
   color: grey;
 }
+
+.word.size-1 {
+  font-size:14px;
+}
+.word.size-2 {
+  font-size:18px;
+}
+.word.size-3 {
+  font-size:22px;
+}
+.word.size-4 {
+  font-size:26px;
+}
+.word.size-5 {
+  font-size:30px;
+}
+.word.size-6 {
+  font-size:34px;
+}
