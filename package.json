@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha test",
-    "build": "node_modules/browserify/bin/cmd.js -e index.js -o app.js"
+    "build": "node_modules/browserify/bin/cmd.js -t hbsfy -e index.js -o app.js"
   },
   "repository": {
     "type": "git",
