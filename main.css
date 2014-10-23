@@ -19,6 +19,9 @@ body {
 .word {
   position: absolute;
 }
+.word:hover {
+  cursor:pointer;
+}
 
 .word.green {
   color: green;
