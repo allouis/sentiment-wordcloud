@@ -5,7 +5,7 @@ body {
 }
 #wordcloud {
   height:600px;
-  width:800px;
+  width:600px;
   position:relative;
   float:left;
 }
@@ -22,7 +22,7 @@ body {
 .word:hover {
   cursor:pointer;
 }
-
+  
 .word.green {
   color: green;
 }
