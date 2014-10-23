@@ -1,5 +1,5 @@
 <h3> You've clicked on {{label}} </h3>
 <p> Total Mentions: {{volume}} </p>
-<p> Positive Mentions: {{sentiment.positive}} </p>
-<p> Neutral Mentions: {{sentiment.neutral}} </p>
-<p> Negative Mentions: {{sentiment.negative}} </p>
+<p> Positive Mentions: {{#if sentiment.positive}}{{sentiment.positive}}{{else}}0{{/if}}</p>
+<p> Neutral Mentions: {{#if sentiment.neutral}}{{sentiment.neutral}}{{else}}0{{/if}}</p>
+<p> Negative Mentions: {{#if sentiment.negative}}{{sentiment.negative}}{{else}}0{{/if}}</p>
